@@ -54,12 +54,12 @@ Waggle's CEO is considering a feline version of their successful Lapdog fitness 
 8.  **Navigation Buttons:**
     * Developed interactive navigation buttons with hover effects (color/size changes).
 
-## Page 1: CEO Questions
-    ![CEO Questions ](Power%20BI%20report%20for%20Waggle/CEO%20Questions.JPG)
-## Page 2: Dog Vs Cat Demographics
-    ![Dog vs. Cat Demographics Visualization ](Power%20BI%20report%20for%20Waggle/Dog%20Vs%20Cat%20Demographics.JPG)
-## Page 3: Family Insights
-    ![Family Insights Visualization ](Power%20BI%20report%20for%20Waggle/Family%20Insights.JPG)
+Page 1: CEO Questions
+    ![CEO Questions](Power%20BI%20report%20for%20Waggle/CEO%20Questions.JPG)
+Page 2: Dog Vs Cat Demographics
+    ![Dog vs. Cat Demographics Visualization](Power%20BI%20report%20for%20Waggle/Dog%20Vs%20Cat%20Demographics.JPG)
+Page 3: Family Insights
+    * ![Family Insights Visualization 1](Power%20BI%20report%20for%20Waggle/Family%20Insights.JPG)
 
 
 
