@@ -14,6 +14,7 @@ Waggle's CEO is considering a feline version of their successful Lapdog fitness 
 * **Chief Marketing Officer's Branding Requirements:**
     * Incorporate the Waggle color palette.
     * Include the Waggle logo and approved company logos/icons.
+    ![Waggle Color Palette](Power%20BI%20report%20for%20Waggle/Waggle-color-palette.png)
 * **Product Team's Requirements:**
     * Provide demographic comparisons between dog and cat owners.
     * Include insights about the families owning the pets.
